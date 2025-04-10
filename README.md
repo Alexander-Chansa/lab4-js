@@ -1,8 +1,5 @@
 # Lab 4 - Interactive Website with JavaScript
 
-## Group Members
-- Your Name
-
 ## Features Implemented
 - Theme Toggle (Light/Dark Mode)
 - Contact Form Validation & Custom Greeting
